@@ -95,6 +95,30 @@ int main()
 	v.update(40,v.begin()+2);
 	v.print();
 	cout<<v.size()<<endl;
+
+
+	// char vector 
+		
+	Vector<char>ch;
+	
+	ch.push('a');
+	ch.push('b');
+	ch.push('c');
+	ch.push('d');
+	ch.push('e');
+	
+	cout<<ch.size()<<endl;
+	
+	ch.print();
+	
+	ch.pop();
+	ch.pop();
+	
+	cout<<ch.size()<<endl;
+	ch.print();
+	
+	ch.update('f',ch.begin()+2);
+	ch.print();
 	
 	return 0;
 }
