@@ -27,4 +27,5 @@ int size();
 void update(T data, int index);
 int begin();
 int end();
+void print();
 ```
