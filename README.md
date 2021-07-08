@@ -121,3 +121,18 @@ void print();
 ```
 
 ## Stack Implement ##
+
+#### Generic Function #####
+```cpp
+
+template<class T>
+class Stack{
+};
+```
+
+Function Name	 | activity 
+-----------------|--------------------
+init()           | initialization 
+push()	         | add an element 
+pop()	         | delete last element 
+
