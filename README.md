@@ -8,7 +8,7 @@ Standard Template library implementation by oop c++
 - [Stack](#stack-implement)
 
 
-## Vector Class Implement ##
+## Vector Class Implementation ##
 
 Function Name	 | activity 
 -----------------|--------------------
@@ -36,7 +36,7 @@ int end();
 void print();
 ```
 
-## Map Implement ##
+## Map Implementation ##
 
 Function Name	 | activity 
 -----------------|--------------------
@@ -64,7 +64,7 @@ int end();
 void print();
 ```
 
-## Set Implement ##
+## Set Implementation ##
 
 Function Name	 | activity 
 -----------------|--------------------
@@ -92,7 +92,7 @@ int end();
 void print();
 ```
 
-## String Implement ##
+## String Implementation ##
 
 Function Name	 | activity 
 -----------------|--------------------
@@ -120,7 +120,7 @@ int end();
 void print();
 ```
 
-## Stack Implement ##
+## Stack Implementation ##
 
 #### Generic Function #####
 ```cpp
